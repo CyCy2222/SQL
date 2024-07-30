@@ -1,5 +1,5 @@
-* [!TIP]
-**Read this first
+ [!TIP]
+ Read this first
 
 
    **CyCy's SQL Portfolio**
