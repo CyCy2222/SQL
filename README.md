@@ -1,6 +1,6 @@
 > ***Tip!***
  
-> Read this first
+> Read this first.
 
 
    **CyCy's SQL Portfolio**
